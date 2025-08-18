@@ -10,4 +10,6 @@ After clicking the "Generate" button, the model wil run and generate the desired
 
 
 
-
+At the left-hand side of the page, the model settings can be seen. In the base model path, "meta-llama/Llama-3.2-1B-Instruct" should be written. In the repository page, there is a file named "chekpoint2". After dowloading it, you need to write the path of checkpoint 2 to the "PEFT adapter path" in the model settings. 
+**Note that adapter_model.safetensors should also be downloaded and should be added to the checkpoint2 file.**
+<img width="658" height="702" alt="image" src="https://github.com/user-attachments/assets/ac2422d9-8eaf-4e39-b0b1-13712547e920" />
