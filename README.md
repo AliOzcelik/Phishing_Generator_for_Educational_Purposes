@@ -1,0 +1,1 @@
+# Phishing_Generator_for_Educational_Purposes
