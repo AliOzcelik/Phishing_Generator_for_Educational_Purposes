@@ -1,8 +1,8 @@
 # Phishing_Generator_for_Educational_Purposes
 
-**_basic_chat_with_llama.py_ file is for basic chats with fine-tuned LLM without interface.
+basic_chat_with_llama.py file is for basic chats with fine-tuned LLM without interface.
 
-_app.py_ file is the interface file**
+app.py file is the interface file
 
 
 
