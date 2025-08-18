@@ -1,5 +1,10 @@
 # Phishing_Generator_for_Educational_Purposes
 
+**_basic_chat_with_llama.py_ file is for basic chats with fine-tuned LLM without interface.
+_app.py_ file is the interface file**
+
+
+
 Using the Interface, you can design the prompt for fine-tuned Llama3.2, then you can generate the desired email. In prompt; length of the email, the tone, scenerio or topic should be provided. Any extra instruction or constraint for the prompt can be provided in "Extra Instructions" part. 
 The prompt for the fine-tuned LLM can be previewed in "Prompt Preview" part. 
 
