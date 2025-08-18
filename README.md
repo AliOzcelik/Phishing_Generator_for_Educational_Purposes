@@ -5,6 +5,7 @@ The prompt for the fine-tuned LLM can be previewed in "Prompt Preview" part.
 
 <img width="662" height="742" alt="image" src="https://github.com/user-attachments/assets/b64aaace-d072-462a-863b-9f4a784b4467" />
 
+
 After clicking the "Generate" button, the model wil run and generate the desired email
 <img width="608" height="426" alt="image" src="https://github.com/user-attachments/assets/526155d0-df92-4568-b381-9808a545cac2" />
 
@@ -15,3 +16,7 @@ At the left-hand side of the page, the model settings can be seen. In the base m
 
 
 <img width="258" height="302" alt="image" src="https://github.com/user-attachments/assets/ac2422d9-8eaf-4e39-b0b1-13712547e920" />
+
+In the Generation part, some advanced configurations for the model can be provided for the LLM. 
+
+<img width="244" height="358" alt="image" src="https://github.com/user-attachments/assets/84d67a76-4f88-4da1-997c-6bcfb8472e07" />
